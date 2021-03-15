@@ -16,10 +16,10 @@ export default function Home() {
       </div>
       <footer className={styles.footer}>
         <div className={styles.icons}>
-          <img src="/fb-icon.svg" alt="fb-icon" />
-          <img src="/insta-icon.svg" alt="insta-icon" />
-          <img src="/linkedin-icon.svg" alt="linkedin-icon" />
-          <img src="/github.svg" alt="github-icon" />
+          <a href="#"> <img src="/fb-icon.svg" alt="fb-icon" target="_blank" /></a>
+          <a href="#"><img src="/insta-icon.svg" alt="insta-icon" target="_blank" /></a>
+          <a href="https://www.linkedin.com/in/muntasir-enam-al-huda/"><img src="/linkedin-icon.svg" alt="linkedin-icon" target="_blank" /></a>
+          <a href="https://github.com/Muntasir2001"><img src="/github.svg" alt="github-icon" target="_blank" /></a>
         </div>
         <p>Copyright ©2021 All rights reserved</p>
       </footer>
