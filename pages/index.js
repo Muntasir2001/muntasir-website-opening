@@ -8,7 +8,7 @@ export default function Home() {
         <title>Noob Dev Official</title>
       </Head>
       <div className={styles['nd-logo']}>
-        <img src="/ndsq-blue.svg" alt="Logo" />
+        <img src="/transparent.svg" alt="Logo" />
       </div>
       <div className={styles['nd-text']}>
         <h1>hey, i am <span>noob dev</span></h1>
