@@ -12,7 +12,11 @@ export default function Home() {
       </div>
       <div className={styles['nd-text']}>
         <h1>hey, i am <span>noob dev</span></h1>
-        <p>official website coming soon</p>
+        <p className={styles["p-1"]}>Since childhood, Muntasir wanted to be a Mechanical Engineer until one of his friend introduced him to programming back in 2018 and he has been learning programming ever since. He is interested mainly in Web Technologies and also in machine learning/AI.</p>
+
+        <p className={styles["p-2"]}> When he is not busy breaking applications, he hangs around on Discord either gaming or helping his friends or other people in coding community servers. He is one of the moderators of The Coding Train discord server. He is known as "Noob Dev" in the progamming world.</p>
+
+        <p className={styles.statement}>official website coming soon</p>
       </div>
       <footer className={styles.footer}>
         <div className={styles.icons}>

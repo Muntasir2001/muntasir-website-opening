@@ -1,5 +1,5 @@
 .nd-logo {
-   margin: 150px 0 0 0;
+   margin: 140px 0 0 0;
    display: flex;
    justify-content: center;
 
@@ -24,10 +24,24 @@
       }
    }
 
-   p {
+   .statement {
       font-style: italic;
-      padding-top: 10px;
+      padding-top: 50px;
+   }
+
+   .p-1, .p-2 {
+      max-width: 1000px;
+      text-align: center;
+      line-height: 25px;
       font-size: 1.1rem;
+   }
+
+   .p-1 {
+      padding-top: 30px;
+   }
+
+   .p-2 {
+      padding-top: 15px;
    }
 }
 
