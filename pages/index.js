@@ -9,7 +9,7 @@ export default function Home() {
 			</Head>
 			<div className={styles.container}>
 				<div className={styles['nd-logo']}>
-					<img src='/transparent.svg' alt='Logo' />
+					<img src='/noob_dev_final_cropped_transparent.svg' alt='Logo' />
 				</div>
 				<div className={styles['nd-text']}>
 					<h1>
