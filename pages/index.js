@@ -6,6 +6,12 @@ export default function Home() {
 		<>
 			<Head>
 				<title>Noob Dev Official</title>
+				<link
+					rel='icon'
+					type='image/png'
+					sizes='32x32'
+					href='/favicon/favicon-32x32.png'
+				/>
 			</Head>
 			<div className={styles.container}>
 				<div className={styles['nd-logo']}>
