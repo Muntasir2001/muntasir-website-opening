@@ -39,7 +39,7 @@ export default function Home() {
 					</p>
 				</div>
 				<div className={styles['website-button']}>
-					<a href='https://noobdevofficial.netlify.app/'>
+					<a href='https://noobdevofficial.vercel.app/'>
 						Official Website
 					</a>
 				</div>
