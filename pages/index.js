@@ -5,7 +5,7 @@ export default function Home() {
 	return (
 		<>
 			<Head>
-				<title>Noob Dev Official</title>
+				<title>Noob Dev 54</title>
 				<link
 					rel='icon'
 					type='image/png'
@@ -39,21 +39,22 @@ export default function Home() {
 					</p>
 				</div>
 				<div className={styles['website-button']}>
-					<a href='https://noobdevofficial.vercel.app/'>
-						Official Website
-					</a>
+					<a href='https://muntasirenamalhuda.com/'>Official Website</a>
 				</div>
 				<footer className={styles.footer}>
 					<div className={styles.icons}>
-						<a href='/' target='_blank'>
+						{/* <a href='/' target='_blank'>
 							{' '}
 							<img
 								src='/fb-icon.svg'
 								alt='fb-icon'
 								onClick={(e) => e.preventDefault()}
 							/>
-						</a>
-						<a href='/' target='_blank'>
+						</a> */}
+						<a
+							href='https://www.instagram.com/accounts/login/'
+							target='_blank'
+						>
 							<img
 								src='/insta-icon.svg'
 								alt='insta-icon'
@@ -70,7 +71,7 @@ export default function Home() {
 							<img src='/github.svg' alt='github-icon' />
 						</a>
 					</div>
-					<p>Copyright ©2021 All rights reserved</p>
+					<p>Copyright ©2022 All rights reserved</p>
 				</footer>
 			</div>
 		</>
