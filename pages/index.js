@@ -5,7 +5,7 @@ export default function Home() {
 	return (
 		<>
 			<Head>
-				<title>Noob Dev 54</title>
+				<title>Muntasir | noob_dev54</title>
 				<link
 					rel='icon'
 					type='image/png'
@@ -19,7 +19,7 @@ export default function Home() {
 				</div>
 				<div className={styles['nd-text']}>
 					<h1>
-						hey, i am <span>noob dev</span>
+						hey, i am <span>Muntasir</span>
 					</h1>
 					<p className={styles['p-1']}>
 						Since childhood, Muntasir wanted to be a Mechanical Engineer
