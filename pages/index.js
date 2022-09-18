@@ -34,8 +34,8 @@ export default function Home() {
 						When he is not busy breaking applications, he hangs around on
 						Discord either gaming or helping his friends or other people
 						in coding community servers. He is one of the moderators of
-						The Coding Train discord server. He is known as "Noob Dev" in
-						the progamming world.
+						The Coding Train discord server and Muslim Gamers League. He
+						is known as "Noob Dev" in the progamming world.
 					</p>
 				</div>
 				<div className={styles['website-button']}>
